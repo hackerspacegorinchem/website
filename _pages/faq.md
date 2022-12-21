@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Wie
-permalink: /wie/
+title: FAQ
+permalink: /faq/
 ---
 
-Dit is de website van de Hackerspace van Gorinchem.
+## FAQ
 
 <!-- ## Features
 
